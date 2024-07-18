@@ -65,7 +65,7 @@ Repositorio de los Tres niveles de Practicando Logica de Youtube
     <p>3. Asegúrate de que las imágenes añadidas no infrinjan derechos de autor y sean apropiadas para todos los públicos.</p>
     <h2>Imágenes Destacadas</h2>
     <div class="images">
-      <img src="URL_de_la_Imagen_1" alt="Imagen 1">
+      <img src="Programming Logic parte 1.png" alt="Imagen 1">
       <img src="URL_de_la_Imagen_2" alt="Imagen 2">
       <img src="URL_de_la_Imagen_3" alt="Imagen 3">
     </div>
