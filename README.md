@@ -66,7 +66,7 @@ Repositorio de los Tres niveles de Practicando Logica de Youtube
     <h2>Imágenes Destacadas</h2>
     <div class="images">
       <img src="Programming Logic parte 1.png" alt="Imagen 1">
-      <img src="URL_de_la_Imagen_2" alt="Imagen 2">
+      <img src="Programming Logic parte 2.png" alt="Imagen 2">
       <img src="URL_de_la_Imagen_3" alt="Imagen 3">
     </div>
     <div class="footer">
