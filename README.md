@@ -19,8 +19,20 @@ Repositorio de los Tres niveles de Practicando Lógica de YouTube
 ## Temas
 
 <details>
-  <summary>Tema 1</summary>
-  <p>Contenido del Tema 1: Aquí puedes poner una descripción detallada o información relevante sobre el Tema 1.</p>
+  <summary>Primera Parte - Conteniedo y Recursos</summary>
+    <p>00:00:42 - Introducción + Repasar algunos Temas</p>
+    <p>00:06:07 - Ejercicio #2 - Suma de Enteros</p>
+    <p>00:13:01 - Ejercicio #3 - Debes hacerlo!!!!</p>
+    <p>00:13:06 - Ejercicio #4 - Calculadora Básica</p>
+    <p>00:24:00 - Ejercicio #5 - Debes resolverlo!!!</p>
+    <p>00:24:05 - Ejercicio #6 - Números Primos</p>
+    <p>00:34:25 - Ejercicio #7 - Debes Resolverlo!!!</p>
+    <p>00:34:30 - Ejercicio #8 - Factorial</p>
+    <p>00:45:17 - Ejercicio #9 - Debes Resolverlo!!!</p>
+    <p>00:45:22 - Ejercicio #10 - Fibonacci</p>
+    <p>00:54:33 - Ejercicio #11 - Debes Resolverlo!!!</p>
+    <p>00:54:38 - Ejercicio #12 - Juego Adivinar</p>
+    <p>01:06:06 - Final</p>
 </details>
 
 <details>
