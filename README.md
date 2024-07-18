@@ -11,8 +11,8 @@ Repositorio de los Tres niveles de Practicando Lógica de YouTube
 ## Imágenes Destacadas
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Programming_Logic_parte_1.png" alt="Imagen 1" style="width: 30%; height: auto; margin: 10px;">
-  <img src="Programming_Logic_parte_2.png" alt="Imagen 2" style="width: 30%; height: auto; margin: 10px;">
+  <img src="Programming Logic parte 1.png" alt="Imagen 1" style="width: 30%; height: auto; margin: 10px;">
+  <img src="Programming Logic parte 2.png" alt="Imagen 2" style="width: 30%; height: auto; margin: 10px;">
   <img src="URL_de_la_Imagen_3" alt="Imagen 3" style="width: 30%; height: auto; margin: 10px;">
 </div>
 
