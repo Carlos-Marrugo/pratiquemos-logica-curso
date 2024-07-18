@@ -19,7 +19,7 @@ Repositorio de los Tres niveles de Practicando Lógica de YouTube
 ## Temas
 
 <details>
-  <summary>Primera Parte - Conteniedo y Recursos</summary>
+  <summary>Primera Parte - Contenido y Recursos</summary>
     <p>00:00:42 - Introducción + Repasar algunos Temas</p>
     <p>00:06:07 - Ejercicio #2 - Suma de Enteros</p>
     <p>00:13:01 - Ejercicio #3 - Debes hacerlo!!!!</p>
