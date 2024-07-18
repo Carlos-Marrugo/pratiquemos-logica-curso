@@ -16,6 +16,23 @@ Repositorio de los Tres niveles de Practicando Lógica de YouTube
   <img src="URL_de_la_Imagen_3" alt="Imagen 3" style="width: 30%; height: auto; margin: 10px;">
 </div>
 
+## Temas
+
+<details>
+  <summary>Tema 1</summary>
+  <p>Contenido del Tema 1: Aquí puedes poner una descripción detallada o información relevante sobre el Tema 1.</p>
+</details>
+
+<details>
+  <summary>Tema 2</summary>
+  <p>Contenido del Tema 2: Aquí puedes poner una descripción detallada o información relevante sobre el Tema 2.</p>
+</details>
+
+<details>
+  <summary>Tema 3</summary>
+  <p>Contenido del Tema 3: Aquí puedes poner una descripción detallada o información relevante sobre el Tema 3.</p>
+</details>
+
 ## Contribuciones
 
 Si deseas contribuir, ¡siente libre de hacer un pull request! Añade nuevas imágenes o mejora la información existente.
