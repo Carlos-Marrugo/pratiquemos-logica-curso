@@ -33,6 +33,10 @@ Repositorio de los Tres niveles de Practicando Lógica de YouTube
     <p>00:54:33 - Ejercicio #11 - Debes Resolverlo!!!</p>
     <p>00:54:38 - Ejercicio #12 - Juego Adivinar</p>
     <p>01:06:06 - Final</p>
+
+    📂RECURSOS DEL CURSO
+    "No solo te quedes con lo que se ve en el curso, investiga mas" 
+    ➡︎Documentacion, Actualizaciones de JDK: https://docs.oracle.com/en/java/javase/17/
 </details>
 
 <details>
