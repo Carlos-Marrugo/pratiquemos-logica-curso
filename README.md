@@ -37,6 +37,11 @@ Repositorio de los Tres niveles de Practicando Lógica de YouTube
     📂RECURSOS DEL CURSO
     "No solo te quedes con lo que se ve en el curso, investiga mas" 
     ➡︎Documentacion, Actualizaciones de JDK: [Click aquí](https://docs.oracle.com/en/java/javase/17/)
+    
+    🟠Extensiones de Visual Studio Code que se usaron para el tema:
+      ➡︎Andromeda
+      ➡︎Tokyo Nigth
+      ➡︎Bearded Theme Will
 
 </details>
 
