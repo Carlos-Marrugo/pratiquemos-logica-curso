@@ -1,12 +1,6 @@
 # Pratiquemos Lógica - Curso
 
-Repositorio de los Tres niveles de Practicando Lógica de YouTube
-
-## Instrucciones
-
-1. Explora las imágenes disponibles en el repositorio.
-2. Si deseas añadir nuevas imágenes, realiza un pull request con los archivos de las imágenes y una breve descripción.
-3. Asegúrate de que las imágenes añadidas no infrinjan derechos de autor y sean apropiadas para todos los públicos.
+Repositorio de los Tres niveles de Practicando Lógica de YouTube!
 
 ## Imágenes Destacadas
 
@@ -47,18 +41,11 @@ Repositorio de los Tres niveles de Practicando Lógica de YouTube
 
 <details>
   <summary>Tema 2</summary>
-  <p>Contenido del Tema 2: Aquí puedes poner una descripción detallada o información relevante sobre el Tema 2.</p>
+  <p>Contenido del Tema 2: Está En Grabación.</p>
 </details>
 
 <details>
   <summary>Tema 3</summary>
-  <p>Contenido del Tema 3: Aquí puedes poner una descripción detallada o información relevante sobre el Tema 3.</p>
+  <p>Contenido del Tema 3: Está En Grabación.</p>
 </details>
 
-## Contribuciones
-
-Si deseas contribuir, ¡siente libre de hacer un pull request! Añade nuevas imágenes o mejora la información existente.
-
-## Licencia
-
-Este repositorio está bajo la licencia [Licencia](URL_de_la_Licencia).
